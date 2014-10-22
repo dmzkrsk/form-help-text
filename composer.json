@@ -1,0 +1,24 @@
+{
+    "name": "the-island/form-help-text",
+    "description": "Help text form extension",
+    "license": "MIT",
+    "keywords": ["form", "symfony"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexey Trofimov",
+            "email": "dmzkrsk@gmail.com"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.3.3",
+        "symfony/form": "~2.4"
+    },
+    
+    "autoload": {
+        "psr-0": {
+            "Kspu": "src/"
+        }
+    }
+}
